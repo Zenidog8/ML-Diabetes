@@ -41,7 +41,6 @@ Los modelos fueron evaluados usando métricas como:
 - Error Absoluto Medio (MAE)
 - Error Cuadrático Medio (MSE)
 - Coeficiente de Determinación (R²)
-- Matriz de confusión para clasificación binaria tras umbralización
 
 ## Uso
 
